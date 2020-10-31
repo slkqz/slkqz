@@ -486,6 +486,9 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   background: #0e6a38;
   color: #fff;
 }
+.block img.wow{
+  border-radius: 50%;
+}
 /*--
     subscribe Start
 --*/
